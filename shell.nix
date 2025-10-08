@@ -6,6 +6,7 @@ mkShell {
   # Package names can be found via https://search.nixos.org/packages
   nativeBuildInputs = [
     cmake
+    libopus
     
   ];
 
