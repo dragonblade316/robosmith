@@ -3,10 +3,10 @@
 RoboSmith is a Discord bot built for use by the Swival Chair Patrol Discord server.
 
 ## Features:
-Full server logging.
-QOTD (in progress)
-Voice channel recording to hopefully assist in complying with CAP CPP.
-Might add a pomodoro timer bc why not.
+- Full server logging.  
+- QOTD (in progress)  
+- Voice channel recording to hopefully assist in complying with CAP CPP.
+- Might add a pomodoro timer bc why not.
 
 ## Usage:
 The bot does support being on multiple servers. If you wish to use the bot in your Discord server, contact me in the SCP Discord.
